@@ -1,7 +1,6 @@
 #!/usr/bin/python3.6
 
 # -*- coding: utf-8 -*-
-import requests
 from bs4 import BeautifulSoup
 from openpyxl import Workbook
 import pandas as pd
